@@ -1,11 +1,12 @@
 # Projeto com TypeORM
 
+Projeto de referência com as configurações básicas do typeorm.
 
 ## QuickStart com TypeORM
 
-Será criado um projeto simples, com as configurações básicas, com typeorm. Para tanto, será instalado o TypeORM cli e a partir dele será criado um projeto de exemplo. 
+Será criado um projeto simples, com as configurações básicas, através do cli do TypeORM. É o mesmo projeto e os mesmos passos descritos no `Quick Start` da (documentação oficial)[https://typeorm.io]
 
-O projeto criada serve como referência para incluir o TypeORM em outros projetos já existentes.
+Este projeto foi criado como referência das configurações básicas para um projeto funcionar com TypeORM, como por exemplo as opções do `tsconfig.json` para utilizar as anotações (decorators em TypeScript) (`"emitDecoratorMetadata": true, "experimentalDecorators": true `), as dependências em `package.json` e as configurações do TypeORM em `ormconfig.json`. 
 
 <br/>
 

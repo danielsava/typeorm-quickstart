@@ -1,5 +1,5 @@
 {
-   "name": "typeorm-tutorial",
+   "name": "typeorm-quickstart",
    "version": "0.0.1",
    "description": "Projeto de estudo e referência do TypeORM",
    "devDependencies": {
